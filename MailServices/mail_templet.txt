@@ -1,0 +1,17 @@
+<p style="font-size:30">Thank you for subscribing <b>DIDIJaise<b></p>
+Your subscription details are 
+
+Subscription For: 
+Subscribed Product: 
+Product Type:
+Size: 
+
+Subscribed By: USerName
+Occupation:
+Subscribed Email Id:
+Contact Number:
+Address: 
+Subscribed Message: 
+
+
+
